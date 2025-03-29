@@ -1,0 +1,53 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Styling for headings */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+/* Styling for paragraphs */
+p {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+/* Styling for images */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #3498db;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+/* Styling for a specific class */
+.highlight {
+    background-color: #ffeb3b;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Styling for a specific ID */
+#special-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #e74c3c;
+    text-align: center;
+    margin: 15px 0;
+}           
